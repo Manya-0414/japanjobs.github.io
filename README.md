@@ -1,14 +1,15 @@
 # work-japan.github.io
 live link to the website: 
+
 Description
 This is a job portal website showcasing various job opportunities in Japan across different industries. Users can browse job listings, filter by location, and search for specific jobs.
 
 Features
-Job listings with detailed descriptions
-Filter jobs by location
-Search functionality to find specific jobs
-Language switcher for English and Japanese
-
+1. Job listings with detailed descriptions
+2. Filter jobs by location
+3. Search functionality to find specific jobs
+4. Language switcher for English and Japanese
+ 
 Technologies Used
 HTML
 CSS
